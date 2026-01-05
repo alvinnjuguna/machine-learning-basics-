@@ -31,3 +31,11 @@ Gradient Descent is an optimization algorithm used to minimize the loss.
 
 It updates weights using the rule:
 
+## Conceptual Python Example
+# simple weight update example
+weight = 0.5
+learning_rate = 0.01
+gradient = 0.2
+
+weight = weight - learning_rate * gradient
+
