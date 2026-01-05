@@ -13,6 +13,10 @@ The goal is to explain concepts clearly with small Python examples.
 ## Tools
 - Python (conceptual examples)
 - Markdown documentation
+  
+## ANN Topics
+- [ANN Structure](artificial_neural_networks.md)
+- [ANN Training](training_an_artificial_neural_network.md)
 
 ## Status
 Ongoing
